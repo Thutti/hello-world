@@ -1,3 +1,3 @@
 # hello-world
 
-Climber, artist, wannabe ninja.
+Climber, artist, ninja, wannabe coder.
